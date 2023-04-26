@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello there 👋
+
+![Obi-wan says hello there](/images/obi-wan-hello-there.gif)
 
 <!--
 **sshone/sshone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
